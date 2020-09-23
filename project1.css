@@ -1,5 +1,8 @@
 .container-1{
     border: 1px solid black;
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
 }
 .flex-box-container-1{
     display: flex;

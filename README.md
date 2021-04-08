@@ -1,1 +1,1 @@
-# website different pages
+# different types of pages like login page
